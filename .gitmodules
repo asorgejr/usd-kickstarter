@@ -1,0 +1,6 @@
+[submodule "USD"]
+	path = USD
+	url = git@github.com:PixarAnimationStudios/USD.git
+[submodule "boost-cmake"]
+	path = boost-cmake
+	url = https://github.com/Orphis/boost-cmake.git
